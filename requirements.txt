@@ -1,0 +1,11 @@
+pyfiglet #figlet
+termcolor #coloring
+builtwith #for technology
+scapy #scappy
+tqdm #process bar
+requests #geolocation Request
+future #for wlookup
+matplotlib #graph
+numpy #numerical in graph
+psutil #monitoring
+
