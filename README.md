@@ -21,17 +21,7 @@ data with minimum time and in an efficient manner
 
 You can read scanned data from history text file, all kind of **scan result** will be recoded in there.
 
-## credits
 
-**Mohammmed Athif - Port Scanning  
-Mohammed Hadhil - Website lookup  
-Arun T Thankchan - Version Scanning  
-Rohith N - Total network Scanning  
-Mohammed Abdu Rahman - CVE scanning  
-Anay K - Script Scanning  
-Midhun T - Aggressive Sacnning  
-Mohammed Hisham - Host data gathering  
-Abhishek - OS detection Scanning**
 
 
 
